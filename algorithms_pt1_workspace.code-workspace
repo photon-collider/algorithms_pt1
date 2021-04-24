@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"week_1/practice",
+			"week_1"
+		],
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"algs4.jar"
+		]
+	}
+}
